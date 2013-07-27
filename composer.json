@@ -1,0 +1,10 @@
+{
+    "name":"sdesmet/VF_EasyAjax",
+    "type":"magento-module",
+    "description":"Easy ajax",
+    "license":"",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
+
